@@ -1,7 +1,7 @@
 ## 🧠 Instructions
 
 Read the code examples below and think about what each program will output.
-Then try writing and testing your own version inside the folder cpp-output-practice.
+Then try writing and testing your own version inside the folder exercise*.
 
 In this practice, we focus on the basics:
 
