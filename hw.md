@@ -11,8 +11,9 @@ In this practice, we focus on the basics:
  
 	•	✅ Proper syntax and typing
 
-<hr>
+
 🔹 Question 1
+
 ```
 #include <iostream>
 using namespace std;
@@ -27,6 +28,7 @@ Q: What is the output of this program?
 ⸻
 
 🔹 Question 2
+
 ```
 #include <iostream>
 using namespace std;
@@ -42,6 +44,7 @@ Q: What will be printed?
 ⸻
 
 🔹 Question 3
+
 ```
 #include <iostream>
 using namespace std;
@@ -56,6 +59,7 @@ Q: How many lines will be printed and what are they?
 ⸻
 
 🔹 Question 4
+
 ```
 #include <iostream>
 using namespace std;
@@ -70,6 +74,7 @@ Q: What is the output?
 ⸻
 
 🔹 Question 5
+
 ```
 #include <iostream>
 using namespace std;
@@ -84,6 +89,7 @@ Q: How many tab spaces are there, and what’s the output?
 ⸻
 
 🔹 Question 6
+
 ```
 #include <iostream>
 using namespace std;
@@ -99,6 +105,7 @@ Q: What will this print and how many lines?
 ⸻
 
 🔹 Question 7
+
 ```
 #include <iostream>
 using namespace std;
@@ -113,6 +120,7 @@ Q: Will this print 2? Why or why not?
 ⸻
 
 🔹 Question 8
+
 ```
 #include <iostream>
 using namespace std;
@@ -127,6 +135,7 @@ Q: What is the output of this?
 ⸻
 
 🔹 Question 9
+
 ```
 #include <iostream>
 using namespace std;
@@ -141,6 +150,7 @@ Q: What will be printed?
 ⸻
 
 🔹 Question 10
+
 ```
 #include <iostream>
 using namespace std;
@@ -150,4 +160,5 @@ int main(void) {
     return 0;
 }
 ```
+
 Q: How many lines and what’s printed on each line?
