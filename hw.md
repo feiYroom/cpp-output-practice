@@ -1,6 +1,14 @@
-### Read the code below and try it inside the folder cpp-output-practice
-**We will focus on very basic Practice(Structure of main function and basic output and typing)**
+🧠 Instructions
 
+Read the code examples below and think about what each program will output.
+Then try writing and testing your own version inside the folder cpp-output-practice.
+
+In this practice, we focus on the basics:
+	•	✅ Structure of the main function
+	•	✅ Basic cout output
+	•	✅ Proper syntax and typing
+
+<hr>
 🔹 Question 1
 ```
 #include <iostream>
