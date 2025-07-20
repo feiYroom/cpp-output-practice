@@ -11,6 +11,8 @@ In this practice, we focus on the basics:
  
 	•	✅ Proper syntax and typing
 
+ 	•	✅ Do not copy/paste!!!
+
 
 🔹 Question 1
 
