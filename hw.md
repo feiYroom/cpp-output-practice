@@ -64,7 +64,7 @@ Q: What is the output?
 using namespace std;
 
 int main(void) {
-    cout << "A\tB\tC";
+    cout << "A B C";
     return 0;
 }
 ```
